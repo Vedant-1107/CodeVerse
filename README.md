@@ -19,8 +19,7 @@ This project allows users to **visually explore the structure of any GitHub repo
 
 ## Demo
 
-![Demo Screenshot](https://via.placeholder.com/800x400.png?text=GitHub+Repository+Visualizer)  
-*Hover over files to see previews, click to expand.*
+https://github.com/user-attachments/assets/b9faf6c6-e5ec-4d5a-a87c-6db0ce693c0f
 
 ---
 
