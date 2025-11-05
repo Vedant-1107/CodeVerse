@@ -44,20 +44,6 @@ This project allows users to **visually explore the structure of any GitHub repo
 
 ## How It Works
 
-The repository structure is represented as a **radial tree**:
-
-```mermaid
-graph TD
-  Repo["Repo-Name"]
-  Repo --> src
-  src --> index.js
-  src --> App.jsx
-  src --> components
-  components --> FilePreview.jsx
-  Repo --> public
-  public --> index.html
-```
-
 **Flow:**
 1. Backend fetches the repo structure using the GitHub API.
 2. Data is sent to the frontend React app.
